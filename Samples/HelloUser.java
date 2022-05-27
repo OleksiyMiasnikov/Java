@@ -1,3 +1,5 @@
+package Samples;
+
 import java.util.Scanner;
 
 public class HelloUser {

@@ -1,3 +1,5 @@
+package Samples;
+
 import javax.swing.*;
 
 public class SampleGUI {

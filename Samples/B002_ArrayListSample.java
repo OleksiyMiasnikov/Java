@@ -2,7 +2,7 @@ package Samples;
 
 import java.util.ArrayList;
 
-public class ArrayListSample {
+public class B002_ArrayListSample {
 
     public static void main(String[] args) {
 

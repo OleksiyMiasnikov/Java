@@ -2,7 +2,7 @@ package Samples;
 
 import javax.swing.*;
 
-public class SampleGUI {
+public class B001_SampleGUI {
 
     public static void main(String[] args) {
         String name = JOptionPane.showInputDialog("Input your name :");

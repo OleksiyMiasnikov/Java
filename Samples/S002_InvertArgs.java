@@ -4,7 +4,7 @@ import org.jetbrains.annotations.NotNull;
 
 import java.util.Stack;
 
-public class InvertArgs {
+public class S002_InvertArgs {
     //Отобразить в окне консоли аргументы командной строки в обратном порядке.
 
     public static void main(String @NotNull [] args) {

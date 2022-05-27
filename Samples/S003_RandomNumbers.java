@@ -3,7 +3,7 @@ package Samples;
 import java.util.Random;
 import java.util.Scanner;
 
-public class RandomNumbers {
+public class S003_RandomNumbers {
     //Вывести заданное количество случайных чисел с переходом и без перехода на новую строку
 
     public static void main(String[] args) {

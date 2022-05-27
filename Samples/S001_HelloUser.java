@@ -2,7 +2,7 @@ package Samples;
 
 import java.util.Scanner;
 
-public class HelloUser {
+public class S001_HelloUser {
     //Приветствовать любого пользователя
     // при вводе его имени через командную строку.
 

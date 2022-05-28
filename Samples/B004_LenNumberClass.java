@@ -40,6 +40,10 @@ class LenNumber {
         int lc = len(comparable);
         return (ln < lc) ? -1 : ((ln == lc) ? 0 : 1);
     }
+
+    public String toString () {
+        return "Length of " + number + " is " + len() + ".";
+    }
 }
 
 public class B004_LenNumberClass {
@@ -47,7 +51,7 @@ public class B004_LenNumberClass {
     public static void main(String[] args) {
         int number = 15567;
         LenNumber lNumber = new LenNumber(number);
-        System.out.printf("Length of my number (%d) is : %d.\n", number, lNumber.len());
+        System.out.println(lNumber);
         Scanner scanner = new Scanner(System.in);
         System.out.print("Input your number, please :");
         int newNumber = scanner.nextInt();
